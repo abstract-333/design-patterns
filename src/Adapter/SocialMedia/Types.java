@@ -1,4 +1,4 @@
-package Adapter;
+package Adapter.SocialMedia;
 
 public enum Types {
     Image,

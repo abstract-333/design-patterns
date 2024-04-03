@@ -1,6 +1,6 @@
-package Adapter.Services;
+package Adapter.SocialMedia.Services;
 
-import Adapter.Types;
+import Adapter.SocialMedia.Types;
 
 public class Facebook {
     private String username;

@@ -1,8 +1,8 @@
-package Adapter.Adapters;
+package Adapter.SocialMedia.Adapters;
 
-import Adapter.ISocialMedia;
-import Adapter.Types;
-import Adapter.Services.Facebook;
+import Adapter.SocialMedia.ISocialMedia;
+import Adapter.SocialMedia.Types;
+import Adapter.SocialMedia.Services.Facebook;
 
 public class FacebookAdapter implements ISocialMedia {
     private Facebook adaptee;

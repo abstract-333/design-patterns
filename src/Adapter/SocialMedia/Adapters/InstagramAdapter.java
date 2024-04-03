@@ -1,7 +1,7 @@
-package Adapter.Adapters;
+package Adapter.SocialMedia.Adapters;
 
-import Adapter.ISocialMedia;
-import Adapter.Services.Instagram;
+import Adapter.SocialMedia.ISocialMedia;
+import Adapter.SocialMedia.Services.Instagram;
 
 public class InstagramAdapter implements ISocialMedia {
     private Instagram adaptee;

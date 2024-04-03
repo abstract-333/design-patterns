@@ -1,4 +1,4 @@
-package Adapter.Services;
+package Adapter.SocialMedia.Services;
 
 public class Instagram {
     private String username;

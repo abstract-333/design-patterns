@@ -1,9 +1,9 @@
-package Adapter;
+package Adapter.SocialMedia;
 
-import Adapter.Adapters.FacebookAdapter;
-import Adapter.Adapters.InstagramAdapter;
-import Adapter.Services.Facebook;
-import Adapter.Services.Instagram;
+import Adapter.SocialMedia.Adapters.FacebookAdapter;
+import Adapter.SocialMedia.Adapters.InstagramAdapter;
+import Adapter.SocialMedia.Services.Facebook;
+import Adapter.SocialMedia.Services.Instagram;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package Adapter;
+package Adapter.SocialMedia;
 
 public interface ISocialMedia {
     abstract public void postText(String data);
