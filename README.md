@@ -15,3 +15,7 @@ _It's strongly recommended to visit this [site](https://refactoring.guru/design-
 <br>
 
 
+- ### Adapter
+![adapter_image](https://refactoring.guru/images/patterns/diagrams/adapter/structure-object-adapter.png?id=33dffbe3aece294162440c7ddd3d5d4f)
+<br>
+<br>
