@@ -24,3 +24,8 @@ _It's strongly recommended to visit this [site](https://refactoring.guru/design-
 ![visitor_image](https://refactoring.guru/images/patterns/diagrams/visitor/structure-ru.png)
 <br>
 <br>
+
+- ### Template
+![template_image](https://refactoring.guru/images/patterns/diagrams/template-method/structure.png)
+<br>
+<br>
