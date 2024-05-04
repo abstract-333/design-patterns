@@ -21,12 +21,17 @@ _It's strongly recommended to visit this [site](https://refactoring.guru/design-
 <br>
 
 - ### Visitor
-![visitor_image](https://refactoring.guru/images/patterns/diagrams/visitor/structure-ru.png)
+![visitor_image](https://refactoring.guru/images/patterns/diagrams/visitor/structure-en.png)
 <br>
 <br>
 
 - ### Template
 ![template_image](https://refactoring.guru/images/patterns/diagrams/template-method/structure.png)
+<br>
+<br>
+
+- ### Observer
+![observer_image](https://refactoring.guru/images/patterns/diagrams/observer/structure.png?id=365b7e2b8fbecc8948f34b9f8f16f33c)
 <br>
 <br>
 
