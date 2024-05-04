@@ -39,3 +39,8 @@ _It's strongly recommended to visit this [site](https://refactoring.guru/design-
 ![mediator_image](https://refactoring.guru/images/patterns/diagrams/mediator/structure.png?id=1f2accc7820ecfe9665b6d30cbc0bc61)
 <br>
 <br>
+
+- ### Proxy
+![proxy_image](https://refactoring.guru/images/patterns/diagrams/proxy/structure.png?id=f2478a82a84e1a1e512a8414bf1abd1c)
+<br>
+<br>
