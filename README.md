@@ -29,3 +29,8 @@ _It's strongly recommended to visit this [site](https://refactoring.guru/design-
 ![template_image](https://refactoring.guru/images/patterns/diagrams/template-method/structure.png)
 <br>
 <br>
+
+- ### Mediator
+![mediator_image](https://refactoring.guru/images/patterns/diagrams/mediator/structure.png?id=1f2accc7820ecfe9665b6d30cbc0bc61)
+<br>
+<br>
