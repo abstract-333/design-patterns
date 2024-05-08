@@ -2,7 +2,6 @@ package Visitor.Visitors;
 
 import Visitor.Services.Camera;
 import Visitor.Services.Computer;
-import Visitor.Services.Electronics;
 import Visitor.Services.Mobile;
 
 public class OfferPolicyVisitor implements IOfferVisitor {
