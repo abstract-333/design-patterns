@@ -1,21 +1,23 @@
 package Visitor.Visitors;
 
-import Visitor.Services.Electronics;
+import Visitor.Services.Camera;
+import Visitor.Services.Computer;
+import Visitor.Services.Mobile;
 
 public class NormalPolicyVisitor implements IOfferVisitor {
 
     @Override
-    public double getPriceMobile(Electronics electronics) {
+    public double getPriceMobile(Mobile electronics) {
         return electronics.getPrice();
     }
 
     @Override
-    public double getPriceCamera(Electronics electronics) {
+    public double getPriceCamera(Camera electronics) {
         return electronics.getPrice();
     }
 
     @Override
-    public double getPriceComputer(Electronics electronics) {
+    public double getPriceComputer(Computer electronics) {
         return electronics.getPrice();
     }
 
