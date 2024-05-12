@@ -49,3 +49,8 @@ _It's strongly recommended to visit this [site](https://refactoring.guru/design-
 ![decorator_image](https://refactoring.guru/images/patterns/diagrams/decorator/structure.png?id=8c95d894aecce5315cc1b12093a7ea0c)
 <br>
 <br>
+
+- ### Chain of Responsibility
+![chain_of_responsibility_image](https://refactoring.guru/images/patterns/diagrams/chain-of-responsibility/structure.png?id=848f0fc8dca57a44974d63f8181f5406)
+<br>
+<br>
