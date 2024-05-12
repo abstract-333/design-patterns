@@ -44,3 +44,8 @@ _It's strongly recommended to visit this [site](https://refactoring.guru/design-
 ![proxy_image](https://refactoring.guru/images/patterns/diagrams/proxy/structure.png?id=f2478a82a84e1a1e512a8414bf1abd1c)
 <br>
 <br>
+
+- ### Decorator
+![decorator_image](https://refactoring.guru/images/patterns/diagrams/decorator/structure.png?id=8c95d894aecce5315cc1b12093a7ea0c)
+<br>
+<br>
