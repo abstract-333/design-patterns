@@ -1,4 +1,4 @@
-package ChainOfResponsibility;
+package ChainOfResponsibility.Test;
 
 public class ProductTest implements ITest {
     private ITest next;

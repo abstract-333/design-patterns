@@ -1,4 +1,4 @@
-package ChainOfResponsibility;
+package ChainOfResponsibility.Test;
 
 public class Test extends ProductTest {
     private String invalidName;

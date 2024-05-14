@@ -1,4 +1,4 @@
-package ChainOfResponsibility;
+package ChainOfResponsibility.Test;
 
 public interface ITest {
     public void setNext(ITest next);
