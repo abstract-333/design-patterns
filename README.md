@@ -59,3 +59,8 @@ _It's strongly recommended to visit this [site](https://refactoring.guru/design-
 ![iterator_image](https://refactoring.guru/images/patterns/diagrams/iterator/structure.png?id=35ea851f8f6bbe51d79eb91e6e6519d0)
 <br>
 <br>
+
+- ### State
+![state_image](https://refactoring.guru/images/patterns/diagrams/state/structure-en.png?id=38c5cc3a610a201e5bc26a441c63d327)
+<br>
+<br>
