@@ -54,3 +54,8 @@ _It's strongly recommended to visit this [site](https://refactoring.guru/design-
 ![chain_of_responsibility_image](https://refactoring.guru/images/patterns/diagrams/chain-of-responsibility/structure.png?id=848f0fc8dca57a44974d63f8181f5406)
 <br>
 <br>
+
+- ### Iterator
+![iterator_image](https://refactoring.guru/images/patterns/diagrams/iterator/structure.png?id=35ea851f8f6bbe51d79eb91e6e6519d0)
+<br>
+<br>
