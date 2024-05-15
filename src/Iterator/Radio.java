@@ -17,4 +17,8 @@ public class Radio {
     ArrayList<Channel> getChannels() {
         return this.channels;
     }
+
+    Iterator getChannelTypeIterator(ChannelType type) {
+        return new ChannelTypeIterator(this, type);
+    }
 }

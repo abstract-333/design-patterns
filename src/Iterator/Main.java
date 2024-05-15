@@ -13,7 +13,7 @@ public class Main {
         radio.addChannel(RT);
         radio.addChannel(DW);
 
-        Iterator englishTypeIterator = new ChannelTypeIterator(radio, ChannelType.English);
+        Iterator englishTypeIterator = radio.getChannelTypeIterator(ChannelType.English);
         while (englishTypeIterator.hasNext()) {
             System.out.println(englishTypeIterator.next().getName());
         }
