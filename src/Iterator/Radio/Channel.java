@@ -1,4 +1,4 @@
-package Iterator;
+package Iterator.Radio;
 
 public class Channel {
     private String name;

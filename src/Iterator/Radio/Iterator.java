@@ -1,4 +1,4 @@
-package Iterator;
+package Iterator.Radio;
 
 public interface Iterator {
     boolean hasNext();
