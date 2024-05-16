@@ -2,6 +2,6 @@ package Iterator.College;
 
 public interface ICollection {
 
-    public StudentYearIterator createStudentYearIterator();
+    public Iterator createStudentYearIterator(int year);
 
 }

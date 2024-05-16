@@ -2,7 +2,7 @@ package Iterator.College;
 
 import java.util.ArrayList;
 
-public class College {
+public class College implements ICollection {
     private ArrayList<Student> students;
 
     public College() {
@@ -17,7 +17,8 @@ public class College {
         students.add(student);
     }
 
-    Iterator createStudentYearIterator(int year) {
+    @Override
+    public Iterator createStudentYearIterator(int year) {
         return new StudentYearIterator(year, this);
     }
 
