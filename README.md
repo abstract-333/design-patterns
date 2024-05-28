@@ -64,3 +64,8 @@ _It's strongly recommended to visit this [site](https://refactoring.guru/design-
 ![state_image](https://refactoring.guru/images/patterns/diagrams/state/structure-en.png?id=38c5cc3a610a201e5bc26a441c63d327)
 <br>
 <br>
+
+- ### Strategy
+![strategy_image](https://refactoring.guru/images/patterns/diagrams/strategy/structure.png?id=c6aa910c94960f35d100bfca02810ea1)
+<br>
+<br>
