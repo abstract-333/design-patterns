@@ -1,4 +1,4 @@
-package Singleton;
+package Singleton.Abstract;
 
 public class Singleton {
     private static Singleton instance = null;
